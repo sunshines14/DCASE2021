@@ -1,9 +1,7 @@
 # DCASE2021
 This repository is the official implementations of our DCASE 2021 task 1a with technical report:
 
-Soonshin Seo, Ji-Hwan Kim: "MobileNet using Coordinate Attention and Fusions for Low-Complexity Acoustic Scene Classification with Multiple Devices", submitted to task 1a of the 2021 DCASE Challenge 
-
-A technical report link at (http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Seo_52_t1.pdf)
+Soonshin Seo, Ji-Hwan Kim: "[MobileNet using Coordinate Attention and Fusions for Low-Complexity Acoustic Scene Classification with Multiple Devices](http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Seo_52_t1.pdf)", submitted to task 1a of the 2021 DCASE Challenge 
   
 ## Training
  1. Download the development dataset form links at https://zenodo.org/record/3819968#.YLiqhfkzaUk
